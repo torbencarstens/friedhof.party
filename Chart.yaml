@@ -1,0 +1,8 @@
+apiVersion: v2
+name: friedhof-party
+description: Deploy some static files
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+icon: https://helm.sh/img/favicon-152.png
+
