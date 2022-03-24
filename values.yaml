@@ -30,6 +30,7 @@ service:
 ingress:
   hosts:
     - friedhof.party
+    - m.friedhof.party
   secret: tls-friedhofparty
   issuer: letsencrypt-issuer-http
   name: friedhofparty
