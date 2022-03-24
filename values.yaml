@@ -32,5 +32,5 @@ ingress:
     - friedhof.party
     - m.friedhof.party
   secret: tls-friedhofparty
-  issuer: letsencrypt-issuer-http
+  issuer: letsencrypt-issuer
   name: friedhofparty
