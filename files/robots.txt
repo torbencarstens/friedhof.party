@@ -1,0 +1,3 @@
+# Not sure why you'd want to scrape this but feel free
+User-agent: *
+Disallow: 
