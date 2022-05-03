@@ -5,7 +5,7 @@ deployment:
   image: ghcr.io/torbencarstens/friedhofparty:__TAG__
   imagePullPolicy: Always
   revisionHistoryLimit: 1
-  replicas: 1
+  replicas: 2
   ports:
   - 8080
   labels:
